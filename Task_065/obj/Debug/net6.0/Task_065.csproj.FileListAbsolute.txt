@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\C#_Homework_08\Task_065\bin\Debug\net6.0\Task_065.exe
+C:\Users\User\Desktop\C#_Homework_08\Task_065\bin\Debug\net6.0\Task_065.deps.json
+C:\Users\User\Desktop\C#_Homework_08\Task_065\bin\Debug\net6.0\Task_065.runtimeconfig.json
+C:\Users\User\Desktop\C#_Homework_08\Task_065\bin\Debug\net6.0\Task_065.dll
+C:\Users\User\Desktop\C#_Homework_08\Task_065\bin\Debug\net6.0\ref\Task_065.dll
+C:\Users\User\Desktop\C#_Homework_08\Task_065\bin\Debug\net6.0\Task_065.pdb
+C:\Users\User\Desktop\C#_Homework_08\Task_065\obj\Debug\net6.0\Task_065.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#_Homework_08\Task_065\obj\Debug\net6.0\Task_065.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#_Homework_08\Task_065\obj\Debug\net6.0\Task_065.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#_Homework_08\Task_065\obj\Debug\net6.0\Task_065.AssemblyInfo.cs
+C:\Users\User\Desktop\C#_Homework_08\Task_065\obj\Debug\net6.0\Task_065.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#_Homework_08\Task_065\obj\Debug\net6.0\Task_065.dll
+C:\Users\User\Desktop\C#_Homework_08\Task_065\obj\Debug\net6.0\ref\Task_065.dll
+C:\Users\User\Desktop\C#_Homework_08\Task_065\obj\Debug\net6.0\Task_065.pdb
+C:\Users\User\Desktop\C#_Homework_08\Task_065\obj\Debug\net6.0\Task_065.genruntimeconfig.cache
